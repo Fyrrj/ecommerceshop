@@ -4,9 +4,9 @@
 
 ### React (front) + Commerce.js (data) + Stripe (payments)
 
-![1](/src/assets/imgs/1.png)
-![2](/src/assets/imgs/2.png)
-![3](/src/assets/imgs/3.png)
-![3](/src/assets/imgs/4.png)
-![3](/src/assets/imgs/5.png)
-![3](/src/assets/imgs/6.png)
+![1](https://github.com/Fyrrj/ecommerceshop/blob/main/src/assets/imgs/1.PNG?raw=true)
+![2](https://github.com/Fyrrj/ecommerceshop/blob/main/src/assets/imgs/2.PNG?raw=true)
+![3](https://github.com/Fyrrj/ecommerceshop/blob/main/src/assets/imgs/3.PNG?raw=true)
+![4](https://github.com/Fyrrj/ecommerceshop/blob/main/src/assets/imgs/4.PNG?raw=true)
+![5](https://github.com/Fyrrj/ecommerceshop/blob/main/src/assets/imgs/5.PNG?raw=true)
+![6](https://github.com/Fyrrj/ecommerceshop/blob/main/src/assets/imgs/6.PNG?raw=true)
